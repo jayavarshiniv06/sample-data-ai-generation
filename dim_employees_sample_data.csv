@@ -1,0 +1,31 @@
+employee_id,first_name,last_name,email,job_title,office_code,manager_id,hire_date
+262,Billy,Jones,grantleslie@example.org,Meteorologist,tU-701,262,2025-03-14
+151,Billy,Miah,jpeacock@example.net,"Scientist, physiological",Bt-113,151,2025-06-02
+511,Heather,Williams,davidsondebra@example.com,Market researcher,mZ-519,262,2025-01-08
+385,Laura,Walker,fishercharles@example.com,"Designer, ceramics/pottery",Bt-113,262,2025-07-26
+272,Beth,Coleman,peterswilliam@example.net,Hydrogeologist,Fi-311,272,2025-03-03
+697,Sheila,Ashton,kenneth98@example.org,"Engineer, manufacturing",RI-036,151,2025-03-13
+577,Cheryl,Duncan,marieevans@example.com,"Engineer, manufacturing",mZ-519,385,2025-07-12
+94,Sharon,Brown,vbuckley@example.net,Plant breeder/geneticist,Bt-113,272,2025-03-01
+897,Natasha,O'Connor,berryclare@example.com,Hydrogeologist,ax-106,697,2025-06-13
+336,Beverley,Morgan,brett88@example.com,Pharmacologist,Qc-250,697,2025-08-21
+483,Dawn,Macdonald,carolynwalker@example.com,"Therapist, drama",TI-264,94,2025-06-17
+916,Wayne,Khan,graemetaylor@example.com,Special educational needs teacher,mE-161,697,2025-03-11
+616,William,Bates,bennettsamuel@example.com,Interpreter,zY-656,897,2025-02-18
+420,Reece,Lawrence,fgibson@example.net,Midwife,ax-106,94,2025-08-31
+245,Ann,Smith,usmith@example.com,Publishing copy,Fi-311,897,2025-01-15
+287,Alison,Birch,kimberley38@example.org,"Psychologist, clinical",tU-701,511,2025-06-03
+183,Bernard,Jones,allanbrooks@example.net,Air broker,DM-581,272,2025-03-17
+212,Allan,Murphy,danny41@example.net,"Scientist, forensic",fL-441,483,2025-07-16
+124,David,Douglas,greenpamela@example.com,"Designer, exhibition/display",yr-984,616,2025-05-22
+8,Phillip,Hilton,smiles@example.com,Counsellor,ax-106,8,2025-01-28
+6,Nicola,Hutchinson,meganbartlett@example.net,IT technical support officer,Qu-314,245,2025-06-01
+172,Charlie,Donnelly,hallmarian@example.org,Town planner,JF-123,616,2025-01-15
+382,Alan,Williams,mohammed44@example.net,Chartered management accountant,fL-441,616,2025-05-28
+312,Anne,Elliott,brennanamber@example.net,"Loss adjuster, chartered",RI-036,94,2025-01-22
+589,Henry,Lee,william48@example.net,Hydrologist,zY-656,577,2025-04-30
+173,Joanna,Murray,wlloyd@example.com,"Engineer, mining",Rv-218,483,2025-06-04
+394,Jodie,Jenkins,brettduffy@example.com,Analytical chemist,Qu-314,483,2025-05-01
+465,Samuel,Lowe,philip06@example.net,Health service manager,tU-701,272,2025-04-13
+915,Oliver,Wilson,darrenjohnson@example.com,Electronics engineer,Qc-250,697,2025-01-31
+997,Ian,Fleming,elliott33@example.net,Careers adviser,TI-264,272,2025-01-05
